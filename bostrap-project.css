@@ -1,0 +1,97 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.hr-style{
+     
+  border: 5px solid white;
+  border-bottom: none;
+  width: 50px;
+
+}
+
+
+header{
+    background-image: url(study.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.head{
+    background-color: red;
+    width: 40%;
+    color: blue;
+
+
+    
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+
+
+
+.fah{
+    font-weight: 700;
+}
+
+#about-me{
+    background-color: #35A29F;
+}
+
+.banner-contains{
+
+
+    background-color:black;
+    color: aliceblue;
+    width: 75%;
+    height: 6rem;
+    
+
+
+    
+
+}
+.bot{
+    transition: 1s;
+}
+
+.bot:hover{
+    transform: scale(1.2);
+}
+
+
+.features{
+    background-color: #0B666A;
+ color:white;
+ 
+
+}
+
+.feature{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px 0;
+    transition: 1s;
+    padding: 15px;
+
+}
+
+.feature:hover{
+    transform: scale(1.2);
+    box-shadow: 2px 6px 5px black;
+}
+
+.icon-style{
+    padding: 15px;
+    background-color: #071952;
+}
